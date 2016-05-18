@@ -1,4 +1,4 @@
-"""Script developed by Marcelo Cavieres, Unab student, Santiago-Chile"""
+"""Script developed by Marcelo Cavieres"""
 
 print "Note: This script take as root folder in the running"
 ruta = raw_input("From: ")
